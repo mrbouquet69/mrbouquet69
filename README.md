@@ -4,10 +4,6 @@
 
 - 🔭 I'm currently working on **HTML Websites/Roblox Shit**
 
-- 👯 I'm looking to collaborate on **Nothing Piss off.**
-
-- 🤝 I'm looking for help with **Again Nothing.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Mr_Bouquet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mr_Bouquet" height="30" width="40" /></a>
